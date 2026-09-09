@@ -12,6 +12,10 @@
 - `projetos/` — trabalhos práticos
 - `notas/` — anotações e resumos
 
+## Notas de estudo
+- [Aula 01 — Apresentação, avaliação e ENADE](notas/estudo-aula01-apresentacao-e-enade.md)
+- [Aula 02 — ED1: linguagens de programação no mercado](notas/estudo-aula02-ed1-linguagens-mercado.md)
+
 ## Foco da disciplina
 **ENADE de Ciências da Computação** (segundo semestre de 2026)
 
@@ -44,4 +48,5 @@
 ## Arquivos no repositório
 | Arquivo | Descrição |
 |---------|-----------|
-| `material/slides/Aula 01 - Tópicos Integradores.pdf` | Apresentação da disciplina (professor, avaliações, conteúdo, ENADE) |
+| `material/slides/… Aula 01.pdf` | Apresentação da disciplina (professor, avaliações, conteúdo, ENADE) |
+| `material/slides/… Aula 02.pptx` | ED 1º bimestre — linguagens no mercado (entrega 22/09) |
